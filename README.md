@@ -29,6 +29,24 @@ yarn run lint
 ```bash
 quasar build
 ```
+## Make a change
+```Do Know what I am doing
+Crying for help
+```
+
+## Run into trouble and how to fix it.
+Make sure to install git under Team before to clone project
+-  You will need to search and install Java 23 or higher.
+- 
+
+
+
+
+
+
+
+
+
 
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
